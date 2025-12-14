@@ -2,7 +2,6 @@
 
 🎓 **Third-Year Business Information Technology Student** – Dedan Kimathi University of Technology
 💻 **Full-Stack Developer** | Backend-focused | Clean Architecture Advocate
-♟️ **Assistant Chess Captain** – DeKUT Chess Club
 
 ---
 
@@ -91,7 +90,7 @@ A mobile taxi-hailing application.
 
 ## ♟️ Chess, Leadership & Strategy
 
-* Assistant Chess Captain – DeKUT Chess Club
+* Chess master at heart
 * Competitive rapid chess player (2000+ range)
 * Strong background in pressure management and decision-making under stress
 
