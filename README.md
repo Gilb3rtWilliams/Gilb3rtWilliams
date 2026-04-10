@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gilbert Williams
 
-🎓 **Third-Year Business Information Technology Student** – Dedan Kimathi University of Technology
+🎓 **Student** – Dedan Kimathi University of Technology
 💻 **Full-Stack Developer** | Backend-focused | Clean Architecture Advocate
 
 ---
@@ -37,6 +37,7 @@ My interests lie at the intersection of **technology, strategic thinking, philos
 * Git & GitHub
 * Thunder Client (API testing)
 * Modular architecture & validation
+* Postman
 
 ---
 
