@@ -1,106 +1,214 @@
 <div align="center">
-# Gilbert Williams
- 
-**Full-Stack Developer · Backend-focused · Clean Architecture Advocate**
- 
-*Dedan Kimathi University of Technology*
- 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
- 
-> *Driven by faith, reason, and disciplined execution.*
- 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=250&section=header&text=Gilbert%20Williams&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Backend%20Engineer%20•%20System%20Architect&descAlignY=58" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Secure+and+Scalable+Systems;Backend-Focused+Full-Stack+Developer;Clean+Architecture+Advocate;Always+Learning+%7C+Always+Building" />
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Gilb3rtWilliams?style=for-the-badge&color=0ea5e9)](https://github.com/Gilb3rtWilliams)
+[![GitHub stars](https://img.shields.io/github/stars/Gilb3rtWilliams?style=for-the-badge&color=facc15)](https://github.com/Gilb3rtWilliams)
+[![Profile Views](https://komarev.com/ghpvc/?username=Gilb3rtWilliams&style=for-the-badge&color=blue)](https://github.com/Gilb3rtWilliams)
+
 </div>
+
 ---
- 
-## About Me
- 
-I am a disciplined and detail-oriented full-stack developer passionate about building **secure, scalable, and user-focused systems**. I enjoy tackling complex problems — whether in software architecture, algorithmic thinking, or competitive chess.
- 
-My interests lie at the intersection of **technology, strategic thinking, philosophy, and faith**. I believe strong systems are built not only with good code, but with clear principles, patience, and purpose.
- 
+
+# About Me
+
+🎓 Student at **Dedan Kimathi University of Technology**
+
+💻 Passionate about building:
+- Secure backend systems
+- Scalable architectures
+- Role-based applications
+- Real-world software solutions
+
+🧠 Interests:
+- Backend Engineering
+- System Architecture
+- Algorithms & Strategic Thinking
+- Cybersecurity Concepts
+- Philosophy & Faith
+- Competitive Chess
+
+⚡ Philosophy:
+> *Strong systems are built with discipline, clarity, patience, and purpose.*
+
 ---
- 
-## Tech Stack
- 
-**Backend**
-`Node.js` `Express` `RESTful API Design` `JWT Authentication` `Role-Based Access Control (RBAC)`
- 
-**Frontend**
-`React (JSX)` `HTML5` `CSS3` `JavaScript`
- 
-**Database**
-`MongoDB`
- 
-**Tools & Practices**
-`Git & GitHub` `Postman` `Thunder Client` `Modular Architecture` `Input Validation`
- 
+
+# Tech Stack
+
+## Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+
 ---
- 
-## Featured Projects
- 
-### 🏠 DeKUT Online Hostel Booking System
-A role-based hostel booking platform built for university use.
- 
-- Student & admin dashboards with single-page rendering
-- Secure JWT authentication and role-based route protection
-- Hostel booking, complaints, and notifications system
+
+## Backend
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+---
+
+## Database
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+---
+
+## Tools & Practices
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-black?style=for-the-badge)
+
+- RESTful API Design
+- JWT Authentication
+- RBAC Authorization
+- Modular Architecture
+- Validation & Error Handling
+
+---
+
+# Featured Projects
+
+## 🏠 DeKUT Online Hostel Booking System
+
+Role-based hostel booking platform designed for university environments.
+
+### Features
+- Student & Admin dashboards
+- JWT authentication
+- Role-based route protection
+- Complaints & notification system
+- Single-page rendering architecture
+
+### Stack
 `React` `Node.js` `Express` `MongoDB`
- 
+
 ---
- 
-### 🚗 Bounteous Motors – Car Dealership Management System
-A comprehensive platform for buying, selling, and managing vehicles.
- 
-- New and second-hand car listings with smart AI-assisted recommendations
-- Chat-based price negotiation and trade-in value estimation
-- Test drive booking and secure payment workflows (cash & card)
-- Full backend architecture with RBAC, transactions, and notifications
-`Node.js` `Express` `MongoDB` `RBAC`
- 
+
+## 🚗 Bounteous Motors
+
+Comprehensive car dealership and management platform.
+
+### Features
+- New & used car listings
+- Trade-in value estimation
+- AI-assisted recommendations
+- Test drive booking
+- Negotiation system
+- Secure payment workflows
+
+### Focus Areas
+`Backend Architecture` `RBAC` `Transactions` `Notifications`
+
 ---
- 
-### 🚕 Fika Fiti Taxi Services
-A mobile taxi-hailing application for Android.
- 
-- Clean driver and passenger booking flows
-- Android UI built with XML
-`Java` `Android Studio` `XML`
- 
+
+## 🚕 Fika Fiti Taxi Services
+
+Taxi-hailing mobile application with driver-passenger workflows.
+
+### Features
+- Booking system
+- Mobile-first UI
+- Driver & passenger flows
+- Android XML layouts
+
+### Stack
+`Java` `Android Studio`
+
 ---
- 
-## Beyond the Code — ♟ Chess & Strategy
- 
-Competitive rapid chess player in the **2000+ range**. Chess has fundamentally shaped how I approach software development:
- 
-> **Think ahead. Stay calm. Execute precisely.**
- 
-Strong background in pressure management and decision-making under stress — skills that translate directly to debugging at 2am and designing systems that need to scale.
- 
+
+# Chess • Leadership • Strategy
+
+♟️ Competitive chess player
+
+Chess has influenced my approach to software engineering:
+- Think ahead
+- Stay calm under pressure
+- Analyze before execution
+- Execute with precision
+
+> *Every move matters — in chess and software engineering.*
+
 ---
- 
-## GitHub Stats
- 
+
+# GitHub Analytics
+
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gilb3rtWilliams&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilb3rtWilliams&layout=compact&theme=default&hide_border=true&title_color=1D9E75)
- 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilb3rtWilliams&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilb3rtWilliams&layout=compact&theme=tokyonight"/>
+
 </div>
+
 ---
- 
-## Let's Connect
- 
-[![GitHub](https://img.shields.io/badge/GitHub-Gilb3rtWilliams-181717?style=flat-square&logo=github)](https://github.com/Gilb3rtWilliams)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
- 
----
- 
+
+# GitHub Streak
+
 <div align="center">
-*Clean code. Strong fundamentals. Continuous growth.*
-*Always learning. Always building.*
- 
+
+<img src="https://streak-stats.demolab.com?user=Gilb3rtWilliams&theme=tokyonight&hide_border=true" />
+
 </div>
- 
+
+---
+
+# Contribution Graph
+
+[![Gilbert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gilb3rtWilliams&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gilb3rtWilliams&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Gilb3rtWilliams/Gilb3rtWilliams/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# Current Focus
+
+- Advanced backend engineering
+- Scalable REST API systems
+- Secure authentication systems
+- Clean architecture patterns
+- Data structures & algorithms
+
+---
+
+# Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Gilb3rtWilliams)
+
+LinkedIn *(Coming Soon)*
+
+---
+
+<div align="center">
+
+### “Always learning. Always building.”
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
+
+```
